@@ -1,0 +1,26 @@
+p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#noticias {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+}
+
+.noticia {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+}
+
+.noticia h3 {
+    color: darkblue;
+    font-size: 22px;
+}
